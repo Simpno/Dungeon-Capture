@@ -9,6 +9,7 @@ import java.lang.Math;
 import java.util.Random;
 
 /**
+ *TEST DU COMMIT DEPUIS CMD
  *
  * @author thyme
  */
